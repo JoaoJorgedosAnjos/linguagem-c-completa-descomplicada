@@ -1,0 +1,3 @@
+/home/joaojorge/FileIsland/programacao/linguagem-c-completa-descomplicada/01-introducao/01.2/build/CMakeFiles/exemplo.dir
+/home/joaojorge/FileIsland/programacao/linguagem-c-completa-descomplicada/01-introducao/01.2/build/CMakeFiles/edit_cache.dir
+/home/joaojorge/FileIsland/programacao/linguagem-c-completa-descomplicada/01-introducao/01.2/build/CMakeFiles/rebuild_cache.dir

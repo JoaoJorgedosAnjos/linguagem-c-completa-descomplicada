@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/my_programa.dir/src/main.c.o CMakeFiles/my_programa.dir/src/aritmetica.c.o -o my_programa 
